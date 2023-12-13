@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2D8941E4-08CB-49B5-AF91-7F6FC2EAD4D1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D15D7742-B371-4883-A119-C6F62E71A38F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lesson6 swiftBootcamp/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "D15D7742-B371-4883-A119-C6F62E71A38F - 8fac479d7043f0bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "lesson6 swiftBootcamp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nojoodaljuaid/Desktop/swift%20bootcamp/lesson6%20swiftBootcamp/lesson6%20swiftBootcamp/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "D15D7742-B371-4883-A119-C6F62E71A38F - 8fac479d7043fd6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "lesson6 swiftBootcamp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nojoodaljuaid/Desktop/swift%20bootcamp/lesson6%20swiftBootcamp/lesson6%20swiftBootcamp/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "D15D7742-B371-4883-A119-C6F62E71A38F - 8fac479d7043ff92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "lesson6 swiftBootcamp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nojoodaljuaid/Desktop/swift%20bootcamp/lesson6%20swiftBootcamp/lesson6%20swiftBootcamp/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
